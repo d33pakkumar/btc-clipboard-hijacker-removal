@@ -94,3 +94,17 @@ If you find other clipboard hijacker variants or BTC addresses, feel free to ope
 ## 🛡 Stay Safe
 
 Never send crypto without triple-checking the address. Use QR codes or hardware wallets whenever possible.
+
+---
+
+## 💖 Support This Project
+
+If this guide helped you recover or save your funds or remove the malware successfully, and you'd like to support my work:
+
+### 🟧 BTC Donation Address:
+
+bc1qz67nnrhvxjrd5hey27pefzcdmdhpkk4qep7kf0
+
+Any amount is appreciated 🙏 — it motivates me to create more helpful guides like this one.
+
+
